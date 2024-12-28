@@ -24,10 +24,8 @@ We’re a growing community of creators and developers. Here’s how you can joi
 Take a look at our repositories and start making your stream Kool! 🍹
 
 ## 👾 Stay Connected
-- [![Follow on X](https://img.shields.io/badge/Follow%20on%20X-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/yourprofile)  
+- [![Follow on X](https://img.shields.io/badge/Follow%20on%20X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/yourprofile)  
 - [![Follow on Bluesky](https://img.shields.io/badge/Follow%20on%20Bluesky-%230A88E1?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/yourprofile)  
-- Visit our website: [StreamKoolAid.com](#).
-
 - Join our community on [Discord](#).
 - Visit our website: [StreamKoolAid.com](#).
 
